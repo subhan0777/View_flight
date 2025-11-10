@@ -8,7 +8,7 @@
     }
 
     printf("\n---------------------------------------------");
-    printf("\n             🛫 All Available Flights");
+    printf("\n              All Available Flights");
     printf("\n---------------------------------------------\n");
     printf("%-10s %-15s %-15s %-12s %-8s %-10s %-10s %-8s\n",
            "ID", "Source", "Destination", "Date", "Time",
